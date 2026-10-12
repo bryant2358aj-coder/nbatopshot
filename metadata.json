@@ -1,0 +1,6 @@
+{
+  "name": "Top Shot Blacktop 1v1",
+  "description": "Free-to-play 1v1 halfcourt basketball showdown powered by live NBA Top Shot Moments, featuring real-time physics court simulation and NFT tipping to @BryantAbdulJabbar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
